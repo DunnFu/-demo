@@ -19,6 +19,7 @@
 		D57532E8206B8D590068B959 /* province_data.json in Resources */ = {isa = PBXBuildFile; fileRef = D57532E7206B8D590068B959 /* province_data.json */; };
 		D57532EB206B908A0068B959 /* CityNameModels.m in Sources */ = {isa = PBXBuildFile; fileRef = D57532EA206B908A0068B959 /* CityNameModels.m */; };
 		D57532EE206B92E00068B959 /* ZSAnalysisClass.m in Sources */ = {isa = PBXBuildFile; fileRef = D57532ED206B92E00068B959 /* ZSAnalysisClass.m */; };
+		D57532F1206CB8D60068B959 /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = D57532F0206CB8D60068B959 /* Untitled.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		D57532EA206B908A0068B959 /* CityNameModels.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CityNameModels.m; sourceTree = "<group>"; };
 		D57532EC206B92E00068B959 /* ZSAnalysisClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSAnalysisClass.h; sourceTree = "<group>"; };
 		D57532ED206B92E00068B959 /* ZSAnalysisClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSAnalysisClass.m; sourceTree = "<group>"; };
+		D57532F0206CB8D60068B959 /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		D57532B1206B72130068B959 /* proviceByCity */ = {
 			isa = PBXGroup;
 			children = (
+				D57532EF206CB8D60068B959 /* img */,
 				D57532B2206B72130068B959 /* AppDelegate.h */,
 				D57532B3206B72130068B959 /* AppDelegate.m */,
 				D57532B5206B72130068B959 /* ViewController.h */,
@@ -148,6 +151,14 @@
 				D57532D8206B72130068B959 /* Info.plist */,
 			);
 			path = proviceByCityUITests;
+			sourceTree = "<group>";
+		};
+		D57532EF206CB8D60068B959 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				D57532F0206CB8D60068B959 /* Untitled.gif */,
+			);
+			path = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,6 +271,7 @@
 				D57532E8206B8D590068B959 /* province_data.json in Resources */,
 				D57532BC206B72130068B959 /* Assets.xcassets in Resources */,
 				D57532BA206B72130068B959 /* Main.storyboard in Resources */,
+				D57532F1206CB8D60068B959 /* Untitled.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
