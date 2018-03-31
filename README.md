@@ -1,4 +1,4 @@
 # -demo
 省市县选择pickView
 
-![image]https://github.com/FUWUiOS/-demo/blob/master/proviceByCity/img/Untitled.gif?raw=true
+![效果图](https://raw.githubusercontent.com/FuWuChicken/-demo/master/proviceByCity/img/Untitled.gif "这是的效果图")
